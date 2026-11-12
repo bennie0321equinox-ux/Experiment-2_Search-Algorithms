@@ -49,4 +49,4 @@ python3 question4_threat_aware_ordering.py
 python3 generate_report_figures.py
 ```
 
-该命令在 `figures/` 生成报告所用的 5 张图和 2 张表。图表中的数据与上述固定实验设置一致。
+该命令用于生成 `figures/` 下，攥写实验报告时所用的 5 张图和 2 张表。图表中的数据与上述固定实验设置一致。
